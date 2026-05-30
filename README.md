@@ -20,3 +20,6 @@ This project was built as a mini-project to demonstrate data manipulation using 
    ```bash
    git clone [https://github.com/spoorthi-codes/csv-data-analyzer.git](https://github.com/spoorthi-codes/csv-data-analyzer.git)
    cd csv-data-analyzer
+##Author
+Spoorthi 
+BE AIML student
