@@ -18,5 +18,5 @@ This project was built as a mini-project to demonstrate data manipulation using 
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_GITHUB_USERNAME/csv-data-analyzer.git](https://github.com/YOUR_GITHUB_USERNAME/csv-data-analyzer.git)
+   git clone [https://github.com/spoorthi-codes/csv-data-analyzer.git](https://github.com/YOUR_GITHUB_USERNAME/csv-data-analyzer.git)
    cd csv-data-analyzer
