@@ -1,2 +1,22 @@
-# csv-data-analyzer
-CSV Data Analyzer &amp; Statistics Tool  Developed a Command-Line Interface (CLI) application "A lightweight Python CLI tool built with Pandas to load, filter, and calculate key statistics (Mean, Count, Max) from CSV datasets, exporting the insights into a new file."
+# Simple CSV Data Analyzer 📊
+
+A lightweight Command-Line Interface (CLI) tool built in Python that allows users to quickly load a CSV dataset, filter rows based on specific column criteria, calculate basic statistics (Count, Max, Mean), and export the results to a new file.
+
+This project was built as a mini-project to demonstrate data manipulation using Python and Pandas.
+
+## 🚀 Features
+- **Dynamic File Loading:** Reads any standard CSV file inputted by the user.
+- **Smart Filtering:** Dynamically detects columns and filters data based on user-specified values.
+- **Instant Statistics:** Automatically computes the total count, maximum value, and average (mean) for any chosen numeric column.
+- **Data Export:** Saves the generated summary statistics neatly into a new CSV file.
+
+## 🛠️ Tech Stack
+- **Language:** Python 3
+- **Libraries:** Pandas
+
+## 📦 Installation & Setup
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/YOUR_GITHUB_USERNAME/csv-data-analyzer.git](https://github.com/YOUR_GITHUB_USERNAME/csv-data-analyzer.git)
+   cd csv-data-analyzer
